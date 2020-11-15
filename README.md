@@ -1,2 +1,3 @@
-# WW_II_Battleships
-Dicoding Submission
+# World War II Battleships
+Dicoding Submission 
+Belajar Membuat Aplikasi Android untuk Pemula
