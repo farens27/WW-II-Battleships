@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">World War II Battleships</string>
+    <string name="battleshipName">Battleship Name</string>
+    <string name="battleshipDetail">Battleship Detail</string>
+    <string name="farensfernanda_gmail_com">farensfernanda@gmail.com</string>
+    <string name="name_battleship">Nama Battleship</string>
+    <string name="image_battleship">Image Battleship</string>
+    <string name="description_battleship">Description Battleship</string>
+    <string name="Farens_Fernanda_S">Farens Fernanda S</string>
+    <string name="profile">Profile</string>
+    <string name="About">About</string>
+</resources>
